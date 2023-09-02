@@ -20,7 +20,7 @@ If you find anything missing or want to update existing resources, you can creat
 - ***Ethereum:***
     - ~~[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)~~
         - Mandatory Chapters 1,4,5,6,7,9,13 & 14
-    - [Ethereum Documentations](https://ethereum.org/en/developers/)
+    - [Ethereum Documentations](https://ethereum.org/en/developers/)   ** To refer when needed (do have basic understanding of things)
     
 
 ### 2. Solidity Fundamentals:
