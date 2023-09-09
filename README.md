@@ -29,7 +29,7 @@ If you find anything missing or want to update existing resources, you can creat
 - [Cryptozombies](https://cryptozombies.io/en/course/)
 - ~~[Solidity-by-example](https://solidity-by-example.org/)~~ **Note: worth reading second time. a lot of information might take few more reads to digest it
 - ***Secureum***:
-    - [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
+    - ~~[Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)~~
     - [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
 - **[Solidity Gas Optimizations List](https://github.com/iskdrews/awesome-solidity-gas-optimization)**
 
