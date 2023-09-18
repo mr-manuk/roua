@@ -26,7 +26,7 @@ If you find anything missing or want to update existing resources, you can creat
 ### 2. Solidity Fundamentals:
 
 - ~~[Solidity Docs](https://docs.soliditylang.org/en/latest/)~~ **Note: read once obviously it can not be digested in one go but going through it as need will make understand things over time
-- [Cryptozombies](https://cryptozombies.io/en/course/)
+- ~~[Cryptozombies](https://cryptozombies.io/en/course/)~~ **Note: Advanced section can be referent for learning truffle if needed
 - ~~[Solidity-by-example](https://solidity-by-example.org/)~~ **Note: worth reading second time. a lot of information might take few more reads to digest it
 - ***Secureum***:
     - ~~[Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)~~
