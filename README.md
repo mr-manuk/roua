@@ -35,9 +35,9 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 3. Testing and Debugging Frameworks
 
-- [Hardhat](https://hardhat.org/guides/waffle-testing.html)
+- ~~[Hardhat](https://hardhat.org/guides/waffle-testing.html)~~
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
-- [Foundry](https://github.com/foundry-rs/foundry)
+- ~~[Foundry](https://github.com/foundry-rs/foundry)~~
 - [Tenderly](https://tenderly.co/)
 
 ### 4. Commonly used Libraries and Token Standards:
