@@ -42,13 +42,13 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 4. Commonly used Libraries and Token Standards:
 
-- **ERC Token Standards:**
-    - [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-    - [ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
-    - [ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)
-    - [ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
-    - [ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/)
-    - [ERC 2981](https://eips.ethereum.org/EIPS/eip-2981)
+- **ERC Token Standards:**  **Note: Refer while auditing when encountered
+    - ~~[ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)~~
+    - ~~[ERC 721 (NFT)](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)~~
+    - ~~[ERC 777](https://ethereum.org/en/developers/docs/standards/tokens/erc-777/)~~
+    - ~~[ERC 1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)~~
+    - ~~[ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/)~~
+    - ~~[ERC 2981](https://eips.ethereum.org/EIPS/eip-2981)~~
     
 - **[OpenZeppelin Helper Library/Contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts)**
 
